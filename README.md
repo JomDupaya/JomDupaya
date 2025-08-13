@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm **Jom Dupaya**  
-🌟 A Future Computer Engineer with a Passion for Technology! 🌟<br>  
-🎓 Studying **Computer Engineering** at the **Technological Institute of the Philippines**<br>  
-💡 Currently working on my **Capstone Project: Steel Rebar Quality Inspection Device**<br><br>  
+🎓 Graduate **Computer Engineer** at the **Technological Institute of the Philippines**<br>  
 
 ---
 
